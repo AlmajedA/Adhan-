@@ -1,4 +1,4 @@
-package com.almajeda.adhan_apis;
+package com.almajeda.adhanApis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
