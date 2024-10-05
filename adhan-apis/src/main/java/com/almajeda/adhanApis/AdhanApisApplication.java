@@ -1,4 +1,4 @@
-package com.almajeda.adhan_apis;
+package com.almajeda.adhanApis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

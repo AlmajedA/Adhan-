@@ -1,8 +1,8 @@
-package com.almajeda.adhan_apis.data.dto;
+package com.almajeda.adhanApis.data.dto;
 
 import java.time.LocalDateTime;
 
-import com.almajeda.adhan_apis.api.body.LocationBody;
+import com.almajeda.adhanApis.api.body.LocationBody;
 
 import lombok.Getter;
 

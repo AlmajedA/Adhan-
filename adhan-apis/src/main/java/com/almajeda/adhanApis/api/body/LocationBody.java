@@ -1,4 +1,4 @@
-package com.almajeda.adhan_apis.api.body;
+package com.almajeda.adhanApis.api.body;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

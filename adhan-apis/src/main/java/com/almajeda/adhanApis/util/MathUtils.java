@@ -1,6 +1,6 @@
-package com.almajeda.adhan_apis.util;
+package com.almajeda.adhanApis.util;
 
-public class mathUtils {
+public class MathUtils {
     public static double sinDeg(double degrees) {
         return Math.sin(Math.toRadians(degrees));
     }
