@@ -1,6 +1,6 @@
 # Adhan API Documentation
 
-Welcome to the **Adhan API**, a simple service to retrieve Islamic prayer times based on geographic location. This API calculates prayer times following the **Jafari** method.
+Welcome to the **Adhan API**, a simple service to retrieve Islamic prayer times based on geographic location.
 
 ## Base URL
 ```https://adhan-apis.onrender.com/api```
